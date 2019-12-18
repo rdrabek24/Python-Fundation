@@ -1,0 +1,15 @@
+
+
+# Comandos de Linux
+
+pwd - mostra o diretório em que você se encontra
+cd - usado para mudar de diretorios
+ls - lista os arquivos na pasta
+ls -a - lista todos os arquivos na pasta, incluindo os ocultos
+mkdir nome_pasta - comando usado para criar pastas
+rm nome_arquivo - apaga arquivos
+rm -rf - apaga arquivos/pastas com conteúdos
+rmdir - apaga apenas pastas vazias
+chmod +x nome_arquivo.py - dá permissão de execução para o arquivo
+
+

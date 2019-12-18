@@ -12,4 +12,4 @@ lista = ['rafaela','luis', 'joao', 'ana', 'paulo', 'fernando', 'marilia', 'tarci
 #    print(f'Bem vindo(a) {nome}')
 
 for indice.nome in enumerate(lista):
-    print(f'Bem vindo(a) {nome}, Indice {imdice}')
+    print(f'Bem vindo(a) {nome}, Indice {indice}')
